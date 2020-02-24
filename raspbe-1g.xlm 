@@ -1,0 +1,15 @@
+<advancedsettings>
+    <network>
+        <alwaysforcebuffer>true</alwaysforcebuffer>
+        <autodetectpingtime>30</autodetectpingtime>
+        <curlclienttimeout>60</curlclienttimeout>
+        <curllowspeedtime>60</curllowspeedtime>
+        <disableipv6>true</disableipv6>
+        <curlretries>2</curlretries>
+    </network>
+    <cache>
+        <memorysize>209715200</memorysize>
+        <readfactor>10</readfactor>
+        <buffermode>0</buffermode>
+    </cache>
+</advancedsettings>
