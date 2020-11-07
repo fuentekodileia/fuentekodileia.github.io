@@ -354,7 +354,7 @@ description="WIZARD INKLUSION PARA KODI 18[CR]"
 
 name="ZONA PRUEBAS"
 version="1.0"
-url="https://github.com/fuentekodileia/fuentekodileia.github.io/releases/download/build.pruebas/18.R2D2-21.02.19.zip"
+url="https://github.com/fuentekodileia/fuentekodileia.github.io/releases/download/build.pruebas/Daenerys.base.1.3.zip"
 gui=""
 kodi="18"
 theme="http://"
