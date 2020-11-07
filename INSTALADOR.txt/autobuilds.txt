@@ -19,7 +19,7 @@ description="WIZARD R2D2 PARA KODI 18[CR]"
 
 name="R2D2 server2"
 version="1.16"
-url="http://bit.ly/18R2D2gith"
+url="https://archive.org/download/r-2-d-2.nov.-2020/R2D2.nov.2020.zip"
 gui=""
 kodi="18"
 theme="http://"
