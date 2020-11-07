@@ -6,6 +6,15 @@ Instalador de los wizard del grupo Kodileia para kodi 18 y 17.
 
 [B]ACTUALIZACIONES[/B]
 
+7/11/20 Actualizado instalador kodileiawizard a V1.10
+- Eliminada seccion principal, Instalador de addons.
+- Eliminada seccion principal, Contacto. 
+- Reparada ventana emergente de informacion, ahora vuelve a saltar con avisos. 
+- Ahora en la seccion Bases y Parches, aparece la version instalada.
+- Al ir a instalar una Base o Parche, nos da la opcion de Copias de Seguridad.
+- Eliminado item de informacion de la version.
+- Ahora solo tendremos una opcion de instalacion dependiendo de si es Base o Parche.
+
 4/01/20 Actualizado instalador kodileiawizard a V1.10
 
 - Mejoras internas.
