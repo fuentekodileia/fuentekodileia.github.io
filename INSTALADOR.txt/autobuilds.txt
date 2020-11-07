@@ -4,7 +4,7 @@ zip="https://github.com/fuentekodileia/fuentekodileia.github.io/blob/master/plug
 
 
 name="R2D2 server1"
-version="1.15"
+version="1.16"
 url="http://bit.ly/18R2D2gith"
 gui=""
 kodi="18"
@@ -18,7 +18,7 @@ description="WIZARD R2D2 PARA KODI 18[CR]"
 
 
 name="R2D2 server2"
-version="1.15"
+version="1.16"
 url="http://bit.ly/18R2D2gith"
 gui=""
 kodi="18"
@@ -32,7 +32,7 @@ description="WIZARD R2D2 PARA KODI 18[CR]"
 
 
 name="R2D2 server3"
-version="1.15"
+version="1.16"
 url="http://bit.ly/18R2D2gith"
 gui=""
 kodi="18"
@@ -46,7 +46,7 @@ description="WIZARD R2D2 PARA KODI 18[CR]"
 
 
 name="Daenerys server1"
-version="1.14"
+version="1.15"
 url="https://bit.ly/DaenerysGith"
 gui=""
 kodi="18"
@@ -60,8 +60,8 @@ description="WIZARD DAENERYS PARA KODI 18[CR]"
 
 
 name="Daenerys server2"
-version="1.14"
-url="https://archive.org/download/daenerys-v-2.octubre.-2020/DaenerysV2.octubre.2020.zip"
+version="1.15"
+url="https://archive.org/download/daenerys.nov.-2020/Daenerys.nov.2020.zip"
 gui=""
 kodi="18"
 theme="http://"
@@ -74,7 +74,7 @@ description="WIZARD DAENERYS PARA KODI 18[CR]"
 
 
 name="Daenerys server3"
-version="1.14"
+version="1.15"
 url="http://bit.ly/Daenerys18gith"
 gui=""
 kodi="18"
