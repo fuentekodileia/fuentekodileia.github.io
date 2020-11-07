@@ -1,0 +1,16 @@
+id="plugin.program.kodileiawizard"
+version="1.11"
+zip="https://archive.org/download/plugin.program.kodileiawizard-1.9/plugin.program.kodileiawizard-1.9.zip"
+
+
+name="Elementum"
+plugin="plugin.video.elementum"
+url="https://github.com/fuentekodileia/fuentekodileia.github.io/releases/download/plugin.video/plugin.video.elementum-0.1.58.zip"
+repository="none"
+repositoryxml="http://"
+repositoryurl="http://"
+icon="https://i.imgur.com/omtJGJS.png"
+fanart="https://i.imgur.com/JpmVzii.jpg"
+adult="no"
+description="Motor Torrent"
+

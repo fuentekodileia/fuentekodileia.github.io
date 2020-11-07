@@ -1,0 +1,25 @@
+name="Acestream Mod"
+section="no"
+url="http://kodileia2.org/.../FamilyLeia/wizard/apk/Ace%20Stream%20Media%20v.3.1.42.6%20ADS%20Removed.apk"
+icon="https://i.imgur.com/BTGXC2e.png"
+fanart="https://i.imgur.com/JpmVzii.jpg"
+adult="no"
+description="Ace Stream Media, necesario para ver deportes"
+
+
+name="VPN Android"
+section="yes"
+url="http://kodileia2.org/.../FamilyLeia/wizard/txt/Vpn.txt"
+icon="https://i.imgur.com/VRnAfz0.png"
+fanart="https://i.imgur.com/JpmVzii.jpg"
+adult="no"
+description="VPN para Android"
+
+
+name="Forks de Kodi"
+section="yes"
+url="http://kodileia2.org/.../FamilyLeia2/wizard/txt/forks.txt"
+icon="https://i.imgur.com/Z1SFdRG.png"
+fanart="https://i.imgur.com/JpmVzii.jpg"
+adult="no"
+description="Clones de kodi de Kodi"
